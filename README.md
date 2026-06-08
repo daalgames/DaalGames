@@ -118,7 +118,7 @@ function showPage(pageId) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Daal sdfsdfsdfs Games</title>
+<title>Daal Games</title>
 <style>
 body {
     font-family: Arial, sans-serif;
